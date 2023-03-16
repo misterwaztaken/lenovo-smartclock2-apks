@@ -1,2 +1,3 @@
 # Core files
-Install these to get it working *in general*.
+Some install but don't work, and some just don't install
+
