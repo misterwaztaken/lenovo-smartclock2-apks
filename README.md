@@ -1,2 +1,5 @@
-# lenovo-smartclock2-experimental-apks
-Lenovo APK's brutally exported from my clock that I actually use for sleep (really good clock)
+# Lenovo Smart Clock (Gen 2) - Android APK files repo
+This repository contains APK files from a Lenovo Smart Clock (Gen 2).
+These files are organised in this repo.
+
+(THE HOME APK IS STORED ON A PUBLIC GOOGLE DRIVE LINK BECAUSE OF IT'S SIZE)
